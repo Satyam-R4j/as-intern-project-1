@@ -28,8 +28,8 @@ The project follows modern best practices using **React Query, TypeScript, and T
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-username/react-posts-app.git
-cd react-posts-app
+git clone https://github.com/Satyam-R4j/as-intern-project-1
+cd as-intern-project-1
 ```
 
 ### **2️⃣ Install Dependencies**
